@@ -10,3 +10,4 @@
 2) USART c stm32f3discovery
 ![](https://github.com/Vadim131/self-made-dron/raw/main/Images/stm_usart.jpeg)
 
+Фильтр Калмана заработал. Ура! Позже прикреплю видео
