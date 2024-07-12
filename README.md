@@ -10,4 +10,6 @@
 2) USART c stm32f3discovery
 ![](https://github.com/Vadim131/self-made-dron/raw/main/Images/stm_usart.jpeg)
 
-Фильтр Калмана заработал. Ура! Позже прикреплю видео
+Фильтр Калмана заработал. Ура! 
+12.07.2024: Работаю над системой стабилизации и PID. Осуществил модель тестовой демонстрации разработанной системы. Фото ниже
+![](https://github.com/Vadim131/self-made-dron/raw/main/Images/stm_test_imu.jpeg)
